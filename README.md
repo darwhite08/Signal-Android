@@ -39,7 +39,7 @@ https://support.signal.org/
 
 ## Documentation
 Looking for documentation? Check out the wiki!
-
+ 
 https://github.com/signalapp/Signal-Android/wiki
 
 # Legal things
